@@ -60,6 +60,15 @@
 - Fast Boot: **Disabled**
 - **CSM**: **Enabled**
 
+## Tools used:
+- [Opencore](https://dortania.github.io/OpenCore-Install-Guide/) 
+- [ProperTree](https://github.com/corpnewt/ProperTree)
+- [OpenCore Configurator](https://mackie100projects.altervista.org/download-opencore-configurator/)
+- [Hackintool](https://github.com/headkaze/Hackintool)
+- [SSDTTime](https://github.com/corpnewt/SSDTTime)
+- [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+- [USBMap](https://github.com/corpnewt/USBMap)
+
 ## Reference
 
 - [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
